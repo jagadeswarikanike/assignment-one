@@ -1,0 +1,338 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+#it-worker {
+    color: #34ebba;
+    font-family: "Roboto";
+    font-size: 20PX;
+}
+
+.banner-section-bg-container {
+    background-image: url("https://www.rushdah-ir.com/wp-content/uploads/2018/03/sliders1-1.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+
+.banner-it-container {
+    border-width: bold;
+    border-color: #ffffff;
+    border-radius: 20px;
+    width: 500px;
+    height: 50px;
+}
+
+.banner-heading {
+    color: white;
+    font-family: "Open";
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.banner-caption {
+    font-family: "Roboto";
+    color: white;
+    font-size: 18px;
+}
+
+.about-section {
+    background-color: #f9fbfe;
+}
+
+.abt-section-heading {
+    color: #323340;
+    font-family: "open";
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.abt-section-description {
+    font-size: 15px;
+    color: #3b3b42;
+    font-family: "open";
+}
+
+.empty-box1 {
+    background-color: #34ebba;
+    height: 30px;
+    width: 80VWpx;
+}
+
+.empty-box2 {
+    background-color: #34ebba;
+    height: 30px;
+    width: 30VW;
+}
+
+.empty-box3 {
+    background-color: #34ebba;
+    height: 30px;
+    width: 40VW;
+}
+
+.empty-box4 {
+    background-color: #34ebba;
+    height: 30px;
+    width: 20%;
+}
+
+.empty-box6 {
+    background-color: #34ebba;
+    height: 30px;
+    width: 50%;
+}
+
+.skill-style {
+    font-size: 15px;
+}
+
+.image {
+    border-radius: 150px;
+}
+
+.srv-section {
+    background-color: #34ebba;
+}
+
+.srv-para {
+    color: #f2f5f5;
+}
+
+.srv-heading {
+    color: #f2f5f5;
+    font-size: 20px;
+    font-family: "open";
+}
+
+.icons {
+    font-size: 50px;
+}
+
+.srv-icons {
+    color: #f2f5f5;
+}
+
+.asking {
+    font-size: 25px;
+    color: #f2f5f5;
+}
+
+.button {
+    background-color: transparent;
+    color: #f2f5f5;
+    padding: 8px;
+    font-size: 13px;
+    width: 100px;
+    border-width: 1px;
+}
+
+.testm-heading {
+    font-family: "open";
+    font-size: 28px;
+    color: #5f6163;
+    font-weight: 600;
+}
+
+.testm-paragraph {
+    font-family: "Roboto";
+    font-size: 18px;
+    color: #9c9a95;
+}
+
+.haif-image {
+    background-image: url("https://us.123rf.com/450wm/peshkov/peshkov1506/peshkov150600008/41023430-blank-black-diary-and-accessories.jpg?ver=6");
+    background-size: cover;
+    height: 30vh;
+    width: 100vw;
+}
+
+.work-done-section {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png");
+    background-size: cover;
+}
+
+.hr-line {
+    background-color: white;
+    width: 60px;
+}
+
+.work-done-card-title {
+    color: white;
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: 900;
+}
+
+.work-done-card-sub-title {
+    color: white;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.mywork-heading {
+    font-family: "open";
+    font-weight: 500;
+    font-size: 40px;
+}
+
+.mywork-para {
+    font-family: "Roboto";
+    color: #72777a;
+    font-size: 30px;
+}
+
+.button1 {
+    background-color: transparent;
+    color: #34ebba;
+    width: 160px;
+    padding: 5px;
+    border-color: #34ebba;
+    font-family: "Roboto";
+    font-size: 20PX;
+}
+
+.message {
+    height: 100px;
+}
+
+.clint-back {
+    height: 180px;
+}
+
+.footer-section {
+    background-color: #0d2436;
+}
+
+.footer-section-address1 {
+    color: #7a7979;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+.footer-section-address {
+    color: #edebeb;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.fb-icon {
+    color: #3474eb;
+    font-size: 30px;
+}
+
+.ins-icon {
+    color: #eb34d8;
+    font-size: 30px;
+    border-radius: 150px;
+}
+
+.tw-icon {
+    color: #08a32a;
+    font-size: 30px;
+}
+
+.li-icon {
+    color: #a30844;
+    font-size: 30px;
+}
+
+.logo {
+    width: 50px;
+    height: 80px;
+}
+
+.testimonials-section {
+    background-color: #1f2933;
+    padding: 40px;
+}
+
+.testimonials-section-sub-heading {
+    color: #cced00;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.testimonials-section-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.testimonials-card {
+    background-color: #323f4b;
+    padding: 20px;
+}
+
+.testimonials-card-image {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+
+.testimonials-card-description {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+.testimonials-card-person-name {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.projects-section {
+    background-color: #3e4c59;
+}
+
+.projects-section-sub-heading {
+    color: #cced00;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.projects-section-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.projects-card {
+    background-color: #323f4b;
+    border-radius: 8px;
+}
+
+.projects-card-image {
+    width: 100%;
+}
+
+.projects-card-sub-title {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.projects-card-title {
+    color: white;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 5px;
+}
+
+.projects-card-description {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.projects-card-link {
+    color: #cced00;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: bold;
+}
